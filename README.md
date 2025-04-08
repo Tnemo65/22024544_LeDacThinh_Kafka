@@ -115,3 +115,5 @@ Kiểm tra log của ứng dụng để xem Consumer đã nhận được tin nh
 
 ## 5. Tắt 1 máy Kafka đi
 ![alt text](image-6.png)
+
+![image](https://github.com/user-attachments/assets/6737ff5d-c57c-4699-a40e-659a296fa9cb)
